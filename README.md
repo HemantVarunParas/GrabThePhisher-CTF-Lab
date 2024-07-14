@@ -1,7 +1,7 @@
 # Simulating Cyber Attacks and Log Analysis with VirtualBox and Splunk
 
 ## Objective
-The project aimed to create a simulated network attack environment using VirtualBox to connect a Windows 10 VM (victim) and a Kali Linux VM (attacker). The primary goal was to execute an attack and analyze the resulting logs with Splunk to understand attack patterns and enhance network security skills.
+This lab scenario of An attacker compromised a server and impersonated https://pancakeswap.finance/, a decentralized exchange native to BNB Chain, to host a phishing kit at https://apankewk.soup.xyz/mainpage.php. The attacker set it as an open directory with the file name "pankewk.zip". Provided the phishing kit, you as a soc analyst are requested to analyze it and do your threat intel homework.
 
 ### Skills Learned
 
